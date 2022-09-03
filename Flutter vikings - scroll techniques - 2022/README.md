@@ -1,4 +1,4 @@
-# Scroll techniques on Flutterw
+# Scroll techniques on Flutter
 
 Lang: English
 Where: Flutter Vikings, in Oslo
